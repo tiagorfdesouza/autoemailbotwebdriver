@@ -73,7 +73,7 @@ class Botemail:
 
 
 
-jarvisemail = Botemail("tecnologia@metacontadores.com.br","Meta@2020?")
+jarvisemail = Botemail("usuario","senha")
 jarvisemail.login()
 jarvisemail.buttoncriarEmail()
 jarvisemail.prenchercampos()
