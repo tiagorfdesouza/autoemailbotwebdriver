@@ -9,6 +9,7 @@
     <li>IDE Pycharm v_2018.3 ou versão superior;</li>
     <li>Python 3.7.4 ou versão Superior;</li>
     <li>Java jdk 8u.301 ou versão superior;</li>
+    <li>Download de geckodriver.exe</li>
     <li>Muita vontade de Aprender;</li>
 
 </ul><br>
